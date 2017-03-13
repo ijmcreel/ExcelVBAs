@@ -1,10 +1,8 @@
 		Sub ProtectFormulas()
 
-				'ctrl+shift+L
-
+			'ctrl+shift+L
 
 		 On Error GoTo Handler:
-
 
 		 Application.ScreenUpdating = False
 
